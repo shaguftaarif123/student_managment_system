@@ -60,3 +60,4 @@ school2.addTeacher(t3)
 
 console.log(school1);
 console.log(school2);
+
